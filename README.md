@@ -1,6 +1,6 @@
 # FP_DWO_KEL6
 Final Project DWO 
-Dibuat Oleh Kelompok 6
++Dibuat Oleh Kelompok 6
 Nama Ketua:
 - Khoirunisa Jannatuzzahra			(21082010089) 
 Nama Anggota:
