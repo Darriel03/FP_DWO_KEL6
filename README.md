@@ -12,4 +12,4 @@ Nama Anggota:
 - Nensya Katherin Bunga Ivanisa    (21082010113)
 
 Langkah-langkah yang dibutuhkan untuk menjalankan Dashboard dengan baik :
-
+1.
